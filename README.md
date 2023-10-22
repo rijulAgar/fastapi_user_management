@@ -1,4 +1,8 @@
-FastAPI project
+# FastAPI project
+Contain User API
+- Login
+- Signup
+- Get login user detail
 
 ## Setup
 ### Server
